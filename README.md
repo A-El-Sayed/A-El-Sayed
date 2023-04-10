@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working a youth program management system project called Rocket Rosters<br>🌱 I'm currently learning about the web front-end development<br>📫 How to reach me **aelsaye1@stevens.edu**
+🔭 I'm currently working a youth program management system project called <a href="https://github.com/Rocket-Rosters/RRFinal/tree/main">Rocket Rosters</a><br>🌱 I'm currently learning about the web front-end development<br>📫 How to reach me **aelsaye1@stevens.edu**
 
 
 ## 🌐 Socials:
