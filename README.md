@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working a simple blinking eye detection python program<br>🌱 I'm currently learning about Deep Learning for Computer Vision<br>📫 How to reach me **aelsaye1@stevens.edu**
+🔭 I'm currently working on enhancing the search engine of a large company using Recommendation System and NLP techniques <br>🌱 I'm currently learning about Deep Learning and NLP <br>📫 How to reach me **aelsaye1@stevens.edu**
 
 
 ## 🌐 Socials:
