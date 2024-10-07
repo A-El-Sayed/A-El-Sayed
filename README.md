@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on enhancing the search engine of a large company using Recommendation System and NLP techniques <br>🌱 I'm currently learning about Deep Learning and NLP <br>📫 How to reach me **aelsaye1@stevens.edu**
+🔭 I'm currently working on ML and NLP projects @ ScAI Lab @ Stevens Institute of Technology <br>🌱 I'm currently learning about Deep Learning and NLP <br>📫 How to reach me **aelsaye1@stevens.edu**
 
 
 ## 🌐 Socials:
